@@ -69,3 +69,9 @@ function draw() {
 }
 
 ```
+
+#### Resultado de la simulación
+
+![Captura del resultado de la simulación](../../../../assets/u1-a3-1.png)
+
+
