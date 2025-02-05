@@ -3,12 +3,15 @@
 Al implementar la aplicación interactiva, me di cuenta de que hacer arte generativo no es solo cuestión de escribir código y esperar que salga algo interesante. Hubo varios desafíos que enfrenté:
 
 Controlar la aleatoriedad
+
 Al principio, los elementos generados parecían demasiado caóticos. Usar ruido Perlin ayudó a hacer las transiciones más suaves, pero encontrar el equilibrio entre lo aleatorio y lo estructurado fue complicado.
 
 Interactividad que realmente aporte
+
 Quería que la interacción con el mouse o el teclado se sintiera natural, pero algunas veces los cambios eran muy bruscos o no se notaban mucho. Tuve que ajustar bastante los valores para que la interacción se sintiera bien.
 
 Eficiencia del código
+
 A medida que agregaba más elementos, la aplicación empezó a volverse más lenta. No sabía que la cantidad de elementos generados podía afectar el rendimiento tanto, así que tuve que optimizar el código, 
 reducir cálculos innecesarios y mejorar la forma en la que dibujaba los objetos.
 
