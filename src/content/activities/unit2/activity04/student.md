@@ -12,7 +12,7 @@ El método mag() devuelve la magnitud (o longitud) del vector, calculada con la 
 
 #### 3. ¿Cual es mas eficiente?
   
-- magSq() es más eficiente porque evita el cálculo costoso de la raíz cuadrada. Se usa cuando solo se necesita comparar magnitudes.
+magSq() es más eficiente porque evita el cálculo costoso de la raíz cuadrada. Se usa cuando solo se necesita comparar magnitudes.
 
 
 #### 4. ¿Para qué sirve el método normalize()?
@@ -25,9 +25,9 @@ El método dot() calcula la relación entre dos vectores, indicando qué tanto a
 
 #### 6. Diferencia entre la versión estática y de instancia de dot().
 
-La versión de instancia (v1.dot(v2)) calcula el producto punto de v1 con v2.
+- La versión de instancia (v1.dot(v2)) calcula el producto punto de v1 con v2.
 
-La versión estática (p5.Vector.dot(v1, v2)) hace lo mismo sin modificar los vectores originales.
+- La versión estática (p5.Vector.dot(v1, v2)) hace lo mismo sin modificar los vectores originales.
 
 #### 7. Interpretación geométrica del producto cruz (cross()).
 
