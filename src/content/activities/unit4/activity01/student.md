@@ -1,0 +1,3 @@
+#### Impresión sobre la obra
+
+La obra de Memo Akten me parece visualmente impactante y compleja. Me llamó la atención cómo usa patrones de movimiento que parecen caóticos pero siguen reglas matemáticas. Me gusta cómo logra que elementos digitales se sientan orgánicos, como si fueran parte de la naturaleza. Algo que no me convence del todo es que, en algunos casos, los movimientos pueden volverse repetitivos, pero entiendo que eso es parte del concepto de oscilación y ritmo. Me gustaría saber más sobre cómo programa estos movimientos y cómo combina arte y ciencia para crear estas piezas tan envolventes.
