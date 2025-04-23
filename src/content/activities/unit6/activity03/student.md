@@ -19,7 +19,7 @@
 
 ¿Cómo lo hace? Calcula el punto medio de los vecinos cercanos y crea una fuerza que lleva al agente hacia allí.
 
-#### ⚙️ Parámetros clave que encontré:
+#### Parámetros clave que encontré:
 - perceptionRadius: define hasta qué distancia un agente ve a otros y decide si son vecinos.
 
 - separationWeight, alignmentWeight, cohesionWeight: controlan qué tan fuerte afecta cada regla el movimiento.
