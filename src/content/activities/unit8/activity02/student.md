@@ -7,7 +7,8 @@ Quiero crear una visualización con una estética caótica y energética, pero c
 Canción: Devil Trigger
 Artista: Casey Edwards ft. Ali Edwards
 Uso: Me gusta porque cambia mucho entre estrofas, coros y momentos más tranquilos. Tiene buena energía y mucha fuerza en los bajos.
-Enlace a la canción en YouTube
+
+https://youtu.be/-WpnPSChVRQ
 
 #### Inputs de audio:
 
