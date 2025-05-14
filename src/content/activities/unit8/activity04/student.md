@@ -235,4 +235,4 @@ class LightningBolt {
 ```
 
 #### VIDEO DEMO
-![Captura del resultado de la simulación](../../../../assets/Demo.mp4)
+https://youtu.be/Fu4xTbQmdVI
