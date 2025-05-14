@@ -88,4 +88,4 @@ function draw() {
 #### Resultado de la simulación
 ![Captura del resultado de la simulación](../../../../assets/u7-a3-1.png)
 
-![Captura del resultado de la simulación](../../../../assets/u7-a3-2.gif)
+https://cdn.imgchest.com/files/4jdcvmlrq64.gif
